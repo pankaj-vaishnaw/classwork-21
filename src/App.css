@@ -1,0 +1,13 @@
+.app {
+  font-family: sans-serif;
+}
+
+.app.light {
+  background-color: #fff;
+  color: #000;
+}
+
+.app.dark {
+  background-color: #333;
+  color: #fff;
+}
